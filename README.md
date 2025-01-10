@@ -1,0 +1,1 @@
+This repository demonstrates a common MATLAB error: an array index that exceeds the matrix dimensions. The `bug.m` file contains the erroneous code, where a loop iterator goes beyond the valid index range of an array.  The `bugSolution.m` file provides a corrected version, highlighting best practices for avoiding this type of error.
